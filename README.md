@@ -1,4 +1,4 @@
-# Data-Visualisation
+# Data Visualisation
 
 This is my personal project using Shiny R to visualise datasets. The project is about analysing Crime and Alcohol-specific deaths
 analysis before and during the Coronavirus pandemic in England and Wales. 
