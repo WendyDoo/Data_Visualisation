@@ -1,1 +1,14 @@
 # Data-Visualisation
+
+This is my personal project using Shiny R to visualise datasets. 
+
+
+Three main questions would be answered in this visualisation project:
+
+Question 1: What is the relationship between the number of crimes and the number of alcohol- specific deaths before and during the coronavirus pandemic in England and Wales? 
+
+Question 2: How are the number of crimes and the number of alcohol-specific deaths different by regions in England and Wales?
+
+Question 3: Does the increase in coronavirus cases affect the number of alcohol-specific deaths?
+
+To run the app, please download all uploaded datasets and R file in order to run smoothly and see my interesting findings. 
