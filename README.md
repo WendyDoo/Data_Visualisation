@@ -1,4 +1,5 @@
 # Data_Visualisation
+"Hello World" 🕵🏻
 
 This is my personal project using Shiny R to visualise datasets. The project is about analysing Crime and Alcohol-specific deaths
 analysis before and during the Coronavirus pandemic in England and Wales. 
@@ -12,4 +13,3 @@ Question 2: How are the number of crimes and the number of alcohol-specific deat
 
 Question 3: Does the increase in coronavirus cases affect the number of alcohol-specific deaths?
 
-To run the app, please download all uploaded datasets and R file in order to run smoothly and see my interesting findings. 
