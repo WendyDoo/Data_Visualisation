@@ -1,4 +1,4 @@
-# Data_Visualisation
+# Crime and Alcohol Analysis/Data Visualisation
 "Hello World" 🕵🏻
 
 This is my personal project using Shiny R to visualise datasets. The project is about analysing Crime and Alcohol-specific deaths
